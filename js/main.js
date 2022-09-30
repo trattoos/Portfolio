@@ -34,7 +34,7 @@ function formulario() {
         <label for="">Mensaje</label>
         <textarea name="" id="" cols="30" rows="10"></textarea>
 
-        <input type="submit" value="Enviar" id="send" />
+        <input type="submit" value="Enviar" id="send" class="button-send" />
       </form>
     </div>
         `);
